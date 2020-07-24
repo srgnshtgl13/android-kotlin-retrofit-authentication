@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Training</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="question_num">Num</string>
+    <string name="ques_title">Title</string>
+    <string name="ques_link">Link</string>
+    <string name="preference_file_key">SrgnShtgl</string>
+</resources>
